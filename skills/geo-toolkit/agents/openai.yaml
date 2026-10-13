@@ -1,0 +1,3 @@
+display_name: 'Geo Toolkit'
+short_description: 'Parse, geocode, convert, and visualize geographic data.'
+default_prompt: 'Help me work with this address, map file, or geo dataset.'
